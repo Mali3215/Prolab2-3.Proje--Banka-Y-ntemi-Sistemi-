@@ -7,3 +7,4 @@ tabanında gerçekleştiği bir masaüstü banka
 uygulaması yapmamız. Personel veri ekleme , 
 güncelleme, silme raporları v.b. işlemleri 
 yapılabiliyor olması isteniyor.
+Projenin detayları rapor kısmında paylaşılmıştır.
